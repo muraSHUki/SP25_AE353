@@ -1,1 +1,8 @@
-This contains folders for design projects completed in AE353 during the spring 2025 semester
+This contains folders for respective Design Projects completed in AE-353 during the UIUC Spring 2025 semester taught by Professor Bretl.
+
+
+Partners for each Design Project
+
+1 - Ella Young
+
+2 - Luke Ficalora
