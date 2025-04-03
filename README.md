@@ -5,8 +5,8 @@ This repository contains the code, documentation, and final reports for the **AE
 ## Project Overviews
 
 1. **Cat-Bot:** A wheeled robot that balances to stand upright and catch test-pilots (cats).
-    - Partner: Ella Young
+    - Partner: Ella Young (ellamy2@illinois.edu)
 2. **Zagi:** A fixed-wing aircraft, resembling the “Zagi” flying wing, that lands safely on a floating runway with its test-pilot (a cat).
-    - Partner: Luke Ficalora
+    - Partner: Luke Ficalora (lukeaf3@illinois.edu)
 3. **Spacecraft:** A spacecraft that maintains a fixed orientation while being disrupted by debris so that an astronaut (i.e., a space cat) can safely dock and re-enter the spacecraft through a hatch.
-    - Partner: Jason Li 
+    - Partner: Jason Li (jyli3@illinois.edu)
