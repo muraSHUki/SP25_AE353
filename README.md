@@ -6,3 +6,5 @@ Partners for each Design Project
 1 - Ella Young
 
 2 - Luke Ficalora
+
+3 - Jason Li
